@@ -16,3 +16,9 @@ While Apple's sustainability goals are ambitious and its progress commendable, t
 - Compare the trends in emissions with Apple's revenue and market capitalization over the same period.
 - Identify areas of greatest improvement and those needing more attention in Apple's emission reduction efforts.
 - Assess Apple's progress towards achieving their 2030 goal of net zero emissions and predict future emission trends based on historical data.
+
+## Data Collection
+
+**Maven Analytics**: We sourced the data from Maven Analytics, a platform known for its comprehensive datasets and analytics resources. Maven Analytics provided valuable insights that complemented the information available from Apple's reports and financial statements.
+
+**Financial Reports**: We extracted data on Apple's revenue and market capitalization from its annual financial reports for the corresponding years.
